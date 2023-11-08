@@ -1,0 +1,25 @@
+.bg-container{
+    background-color: bisque;
+    background-size: cover;
+    width:auto;
+    height: 100vh;
+    font-family:inherit;
+}
+.head-card{
+     background-color:lightgray;
+    height: 120px;
+    width: auto;
+}
+.content-card{
+    text-align: center;
+    padding: 200px;
+}
+.button{
+    height: 30px;
+    width:120px;
+    background-color: chocolate;
+    color: whitesmoke;
+}
+.foot{
+    background-color:lightgray;
+}
